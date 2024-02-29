@@ -1,1 +1,1 @@
-# Test requast to the [exchange rate api](https://exchangeratesapi.io/documentation/) for converting from one currency to another
+# Test request to the [exchange rate api](https://exchangeratesapi.io/documentation/) for converting from one currency to another
